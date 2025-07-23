@@ -33,24 +33,23 @@ A simple weather forecast app that shows the current weather of any city using t
    cd weather-app
 
    
-2.**Install dependencies**:
+2. **Install dependencies**:
 
-bash
-npm install
+     bash
+     npm install
 
 
 3. **Add API Key**:
 
-Create a .env file in the root:
+     Create a .env file in the root:
 
-init
-VITE_WEATHER_API_KEY=your_api_key_here
+     VITE_WEATHER_API_KEY=your_api_key_here
 
 
-4. **Start the app**:
+5. **Start the app**:
 
-bash
-npm run dev
+      bash
+      npm run dev
 
 5. **Open browser at** http://localhost:5173
 
