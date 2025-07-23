@@ -35,7 +35,7 @@ A simple weather forecast app that shows the current weather of any city using t
    
 2. **Install dependencies**:
 
-     bash
+     ```bash
      npm install
 
 
@@ -48,7 +48,7 @@ A simple weather forecast app that shows the current weather of any city using t
 
 5. **Start the app**:
 
-      bash
+      ```bash
       npm run dev
 
 5. **Open browser at** http://localhost:5173
@@ -58,4 +58,4 @@ A simple weather forecast app that shows the current weather of any city using t
 Free to use for learning and personal projects.
 
 ## Author
-Made with ❤️ by Piyush Kumar
+Made with ❤️ by Piyush
